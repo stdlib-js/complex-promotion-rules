@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/complex-promotion-rules",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Return the complex number data type with the smallest size and closest kind to which data types can be safely cast.",
   "license": "Apache-2.0",
   "author": {
