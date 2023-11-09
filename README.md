@@ -165,6 +165,13 @@ for ( i = 0; i < DTYPES.length; i++ ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/array-promotion-rules`][@stdlib/array/promotion-rules]</span><span class="delimiter">: </span><span class="description">return the array data type with the smallest size and closest kind to which array data types can be safely cast.</span>
+-   <span class="package-name">[`@stdlib/ndarray-promotion-rules`][@stdlib/ndarray/promotion-rules]</span><span class="delimiter">: </span><span class="description">return the ndarray data type with the smallest size and closest kind to which ndarray data types can be safely cast.</span>
+
 </section>
 
 <!-- /.related -->
@@ -239,6 +246,14 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/complex-promotion-rules/main/LICENSE
 
 [@stdlib/complex/dtypes]: https://github.com/stdlib-js/complex-dtypes
+
+<!-- <related-links> -->
+
+[@stdlib/array/promotion-rules]: https://github.com/stdlib-js/array-promotion-rules
+
+[@stdlib/ndarray/promotion-rules]: https://github.com/stdlib-js/ndarray-promotion-rules
+
+<!-- </related-links> -->
 
 </section>
 
