@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import promotionRules from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-promotion-rules@deno/mod.js';
+import promotionRules from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-promotion-rules@v0.2.1-deno/mod.js';
 ```
 
 #### promotionRules( \[dtype1, dtype2] )
@@ -110,7 +110,7 @@ var out = promotionRules( 'foo', 'complex128' );
 
 ```javascript
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-dtypes@deno/mod.js';
-import promotionRules from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-promotion-rules@deno/mod.js';
+import promotionRules from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-promotion-rules@v0.2.1-deno/mod.js';
 
 var DTYPES;
 var dt1;
