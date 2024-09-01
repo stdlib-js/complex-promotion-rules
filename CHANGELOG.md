@@ -41,12 +41,11 @@ No changes reported for this release.
 ### BREAKING CHANGES
 
 -   [`e25b23b`](https://github.com/stdlib-js/stdlib/commit/e25b23b917ee6e387722db7192d22e4a70222da0): rename type definitions for array and ndarray data types
--   [`e25b23b`](https://github.com/stdlib-js/stdlib/commit/e25b23b917ee6e387722db7192d22e4a70222da0): rename type definitions for array and ndarray data types 
 
     -   In order to migrate, users should update their implementations to
-    use the latest naming conventions. The affected type definitions
-    are aliases for individual data type strings, so their should be
-    no behavioral changes.
+        use the latest naming conventions. The affected type definitions
+        are aliases for individual data type strings, so their should be
+        no behavioral changes.
 
 </section>
 
@@ -113,8 +112,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 ### BREAKING CHANGES
 
--   [`9768c66`](https://github.com/stdlib-js/stdlib/commit/9768c662b6e255b70ba9fb0faa989ea1eea71f66): update minimum TypeScript version
--   [`9768c66`](https://github.com/stdlib-js/stdlib/commit/9768c662b6e255b70ba9fb0faa989ea1eea71f66): update minimum TypeScript version to 4.1 
+-   [`9768c66`](https://github.com/stdlib-js/stdlib/commit/9768c662b6e255b70ba9fb0faa989ea1eea71f66): update minimum TypeScript version to 4.1
 
     -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
 
